@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coder2354
 - 👀 I’m interested in python
-- 🌱 I’m currently learning anything really
+- 🌱 I’m currently learning anything really but I am working on a thing called GoldOS for ubuntu
 - 💞️ I’m looking to collaborate on python and stuff
 - 📫 How to reach me ...
 
