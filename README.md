@@ -4,5 +4,4 @@
 - I've worked on a lot of projects; mainly personal.
 - I do use repositories, but most of mine are private ;-; sorry
 
-One day I'll update my profile more but for now...
-no
+Also on the 30th of May 2024 someone tryed to hack me but i think and hope they didn't get in 😑
